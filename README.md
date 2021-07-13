@@ -5,7 +5,7 @@
 - Example Project: https://github.com/Badger-Finance/wBTC-AAVE-Rewards-Farm-Badger-V1-Strategy
 
 # Badger WBTC strategy on top of AAVE, Uniswap and Badger
-[MyStrategy SMart contract check out here directly](https://github.com/sunnyRK/BItcoin-Yield-GR10/blob/master/contracts/MyStrategy.sol)
+[MyStrategy Smart contract check out here directly](https://github.com/sunnyRK/BItcoin-Yield-GR10/blob/master/contracts/MyStrategy.sol)
 
 In this strategy, 
 Deposited WBTC go to AAVE lending pool and borrow WETH and swap for WBTC and again deposit WBTC to AAVE V2. Any try to maximiza yield as possible as. 
