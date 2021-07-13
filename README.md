@@ -1,4 +1,4 @@
-# Badger Strategy V1 Brownie Mix
+# Badger Strategy V1 Brownie Mix (For Gitcoin GR10)
 
 - Video Introduction: https://youtu.be/FVbhgPYW_D0
 
